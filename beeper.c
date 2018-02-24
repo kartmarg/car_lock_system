@@ -14,15 +14,6 @@
  *   Dragon12 example program Ex6.asm by Wayne Chu, Wytec Co.
  *   MC9S12DP256B Device User Guide, V02.14, Mar 5 2003, Motorola Inc.
  *   ECT_16B8C Block User Guide, V01.03, Jul 18 2002, Motorola Inc.
- *
- * Author: Joerg Friedrich
- * Copyright: FHT Esslingen, March 2006
- *
- * License: Gnu Lesser Public License (LGPL)
- *
- * $Id:$
- * $Rev:$
- *
  */
 
 #include <mc9s12dp256.h>

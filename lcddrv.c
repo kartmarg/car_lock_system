@@ -16,11 +16,6 @@
  *   1 = EN (pulse 1 to write)
  *   0 = RS (0=command, 1=data)
  *
- * IDE: Metrowerks Codewarrior
- *
- * Author: Joerg Friedrich
- * Copyright: FHT Esslingen, March 2006
- *
  * $Id:$
  * $Rev:$
  *

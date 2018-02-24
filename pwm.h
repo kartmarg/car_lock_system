@@ -1,9 +1,4 @@
-/* Routines to control a servo (JR/Futaba) from Port pn PP7.
- * 
- * Author: Joerg Friedrich
- * Copyright: HS Esslingen, September 2008
- *
- * License: Gnu Lesser Public License (LGPL)
+/* Routines to control a servo from Port pn PP7.
  *
  * $Id:$
  * $Rev:$

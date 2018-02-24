@@ -1,11 +1,6 @@
 /* 
  * A primitive CAN driver for the Dragon 12 board.
  *
- * Author: Joerg Friedrich
- * Copyright: HS Esslingen, November 20122
- *
- * License: Gnu Lesser Public License (LGPL)
- *
  * $Id:$
  * $Rev:$
  *

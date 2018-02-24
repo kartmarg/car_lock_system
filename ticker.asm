@@ -2,13 +2,6 @@
 ;   Ticker Interrupt, calling an Interrupt Service Routine every 10ms
 ;   Uses Enhanced Capture Timer ECT Kanal 4
 ;
-;   Computerarchitektur 3
-;   (C) 2015-2016 J. Friedrich, W. Zimmermann
-;   Hochschule Esslingen
-;
-;   Author:   J.Friedrich
-;   Modified: W.Zimmermann, Jan  10, 2016
-;
 ;   Usage:
 ;               JSR initTicker --> Initialization
 ;                                 (Must be called once)
